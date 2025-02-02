@@ -141,7 +141,15 @@ This information is useful for planning inventory and marketing strategies to ma
 
 
 bbbbbbbbbbbbbbbbbbbb
-9. Which channel helped to bring more 
+9. Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution?
+
+img img
+Insights
+    Img
+    The "Retailer" channel makes up most of the sales, with 73% of the total.
+    The "Direct" channel is also important, contributing 16%, while the "Distributor" channel adds 11%.
+    Since the "Retailer" channel is the main source of the revenue, focusing on growing the "Direct" and "Distributor" channels could help increase overall sales.
+    
 
 
 
@@ -150,11 +158,32 @@ bbbbbbbbbbbbbbbbbbbb
 
 
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-10. g
-11. g
-12. g
-13. g
-14. g
-15. gg
-16. g
+10. Get the Top 3 products in each divison that have a high total sold quantity in the fiscal year 2021?
+img
+img
 
+Insight
+
+N&S Division
+img
+
+The Top three products are "AQ Pen Drive 2 IN 1,""AQ Pen Drive DRC," and another "AQ Pen Drive DRC" variant.
+This reflects strong consumer demand for pen drives in the divison, underscoring its market leadership and growth potential.
+Effective inventory management is essential for continued success.
+
+
+P&A Division
+img
+
+The Top three products are "AQ Gamers Ms,""AQ Maxima Ms," and another "AQ Maxima Ms" variant.
+This division specializes in gaming-related products, appealing to a specific customer niche.
+Efficient inventory management is essential to meet customer demand.
+Continuously promote and brand the top products to sustain success.
+
+PC Division
+img
+
+The top three products are "AQ Digit", "AQ Velocity", and another "AQ Digit" variant.
+The division specializes in PC-related products, including a focus on the computing niche.
+Efficient inventory management is essential to meer customer demand.
+Onging branding and marketing efforts are important to maintain success.
