@@ -132,10 +132,10 @@ Output:
 Insights:             
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/9%20channel%20sale%20chart.png) 
 
-* The "Retailer" channel makes up most of the sales, with 73% of the total. 
-* The "Direct" channel is also important, contributing 16%, while the "Distributor" channel adds 11%. 
-* Since the "Retailer" channel is the main source of the revenue, focusing on growing the "Direct" and "Distributor" channels could help increase overall sales. 
-    
+ * The "Retailer" channel makes up most of the sales, with 73% of the total. 
+ * The "Direct" channel is also important, contributing 16%, while the "Distributor" channel adds 11%. 
+ * Since the "Retailer" channel is the main source of the revenue, focusing on growing the "Direct" and "Distributor" channels could help increase overall sales. 
+
 10. Get the Top 3 products in each divison that have a high total sold quantity in the fiscal year 2021?  
 
 SQL Query:              
@@ -145,7 +145,6 @@ Output:
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20result.png)
 
 Insight:               
-
 N&S Division:            
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20chart%20N%26S%20Divison.png)
   
