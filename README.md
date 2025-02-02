@@ -8,38 +8,35 @@ SQL Query
 ![Sql](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/1%20list%20of%20Market%20code.png)
 
 
-Result     
+Output:   
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/1%20list%20of%20Market%20APAC%20result.png)
 
 
 Insights 
+
 Atliq Harware operates in several countries across the Asia-Pacific region, including India,Indonesia, Japan, the Philippines, South Korea, Australia, New Zealand and Bangladesh. 
 
-This shows their strong presence and ability to succeed in diffrernt cultures and economics in the region.  
+This shows their strong presence and ability to succeed in diffrernt cultures and economics in the region.   
+
 APAC Region Map
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/1%20APAC%20Region%20Map.png)
 
 
 
-
-
-
-
-
 2. What is the percentage of uniques product increase in 2021 Vs 2020?
 
-  
-![Alt Text](images/my-image.png)
+SQL Query:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/2%20Unique%20Product%2020%20vs%2021%20code.png)
 
-![Alt Text](images/my-image.png)
+Output:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/2%20Unique%20Product%2020%20vs%2021%20Result.png)
 
 
 
 
 Insights
-IMG
 
-![Alt Text](images/my-image.png)
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/2%20chart%2020%20vs%2021.png)
 
 
 There was a notable rise in the number of products, with 334 in 2021 compared to 245 in 2020.
@@ -51,41 +48,39 @@ It's a good sign of business growth and flexibility in responding to market chan
 
 
 3. Provide a report with all the unique product counts for each segment and sort them in descending order of product counts.
-    img
-![Alt Text](images/my-image.png)
 
-![Alt Text](images/my-image.png)
+SQL Query:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/3%20Product%20count%20by%20segment%20Code.png)
+
+Output:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/3%20Product%20count%20by%20segment%20Result.png)
 
 
-   Insights
-   IMg
+Insights:
 
-   ![Alt Text](images/my-image.png)
+
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/3%20Product%20count%20by%20segment%20Bar%20chart.png)
 
    
-   The "Notebook" Category has the most products, with 129 items. 
-   The "Networking" Category has the fewest products, with only 9 items. 
-   This shows the difference in product range across segments, with "Notebook" and "Accessories" having many options, while "Networking" offers fewer choices. 
-   Having a variety of products helps meet different customer preferences and needs in each segment. 
+The "Notebook" Category has the most products, with 129 items. 
+The "Networking" Category has the fewest products, with only 9 items. 
+This shows the difference in product range across segments, with "Notebook" and "Accessories" having many options, while "Networking" offers fewer choices. 
+Having a variety of products helps meet different customer preferences and needs in each segment. 
    
 
+4. Which Segment had the most increase in unique products in 2021 vs 2020?
+
+SQL Query:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/4%20most%20increase%20unq%20pd%2020%20vs%2021%20code.png)
+
+Output:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/3%20Product%20count%20by%20segment%20Result.png)
 
 
-
-5. Which Segment had the most increase in unique products in 2021 vs 2020
-    img
-   img
-
-   ![Alt Text](images/my-image.png)
-
-
-![Alt Text](images/my-image.png)
-
-
-Insigths
+Insigths:
 
 Img
-![Alt Text](images/my-image.png)
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/4%20most%20increase%20unq%20pd%2020%20vs%2021%20chart.png)
 
  The "Accessories" category grew by 34 products in 2021 comapred to 2020. 
  This shows a general trend of expanding product options, especially in the "Accessories" and "Notebook" categories, to meet more customer preferences. 
@@ -96,10 +91,11 @@ Offering more choices can make the business more competitive andd give customers
 
 5. Get the products that have the highest and lowest manufacturing costs.
 
-    img
-![Alt Text](images/my-image.png)
 
 ![Alt Text](images/my-image.png)
+
+Output:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/5%20highest%20lower%20manufacturing%20product%20code.png)
 
    img
 Insights  
@@ -199,22 +195,21 @@ Since the "Retailer" channel is the main source of the revenue, focusing on grow
 
 
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvv 
-10. Get the Top 3 products in each divison that have a high total sold quantity in the fiscal year 2021? 
+10. Get the Top 3 products in each divison that have a high total sold quantity in the fiscal year 2021?  
 
-![Alt Text](images/my-image.png)
 
-![Alt Text](images/my-image.png)
+SQL Query
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20code.png)
 
-img
-img
+Result
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20result.png)
 
 Insight 
 
 N&S Division  
 
-![Alt Text](images/my-image.png)
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20chart%20N%26S%20Divison.png)
   
-img 
 
 The Top three products are "AQ Pen Drive 2 IN 1,""AQ Pen Drive DRC," and another "AQ Pen Drive DRC" variant. 
 This reflects strong consumer demand for pen drives in the divison, underscoring its market leadership and growth potential. 
@@ -222,8 +217,8 @@ Effective inventory management is essential for continued success.
 
 
 P&A Division 
-img
-![Alt Text](images/my-image.png)
+
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20chart%20P%26A%20Divison.png)
 
 
 The Top three products are "AQ Gamers Ms,""AQ Maxima Ms," and another "AQ Maxima Ms" variant. 
@@ -232,9 +227,8 @@ Efficient inventory management is essential to meet customer demand.
 Continuously promote and brand the top products to sustain success. 
 
 PC Division 
-img
-![Alt Text](images/my-image.png)
 
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20chart%20PC%20Divison.png)
 
 
 The top three products are "AQ Digit", "AQ Velocity", and another "AQ Digit" variant. 
