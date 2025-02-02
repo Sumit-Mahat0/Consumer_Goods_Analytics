@@ -4,7 +4,7 @@
 
 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
 
-SQL Query          
+SQL Query:          
 ![Sql](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/1%20list%20of%20Market%20code.png)
 
 
@@ -18,7 +18,7 @@ Atliq Harware operates in several countries across the Asia-Pacific region, incl
 
 This shows their strong presence and ability to succeed in diffrernt cultures and economics in the region.   
 
-APAC Region Map
+APAC Region Map:
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/1%20APAC%20Region%20Map.png)
 
 
@@ -34,7 +34,7 @@ Output:
 
 
 
-Insights
+Insights:
 
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/2%20chart%2020%20vs%2021.png)
 
@@ -79,7 +79,7 @@ Output:
 
 Insigths:
 
-Img
+
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/4%20most%20increase%20unq%20pd%2020%20vs%2021%20chart.png)
 
  The "Accessories" category grew by 34 products in 2021 comapred to 2020. 
@@ -91,54 +91,54 @@ Offering more choices can make the business more competitive andd give customers
 
 5. Get the products that have the highest and lowest manufacturing costs.
 
-
-![Alt Text](images/my-image.png)
-
-Output:
+SQL Query:
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/5%20highest%20lower%20manufacturing%20product%20code.png)
 
-   img
-Insights  
+Output:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/5%20highest%20lower%20manufacturing%20product%20result.png)
+
+Insights:  
 
 The manufacturing cost of the "AQ HOME Allinl Gen 2" is quite high at 263.42, while the "AQ Master Wired X1 Ms" Has a much lower cost of just 0.8654.  
    
 
-ccccccccccccccc
+
 6. Generate a report which contains the Top 5 Customers who received an average high pre_invoice_discount_pct for the fiscal year 2021 and in the indian market.   
 
-![Alt Text](images/my-image.png)
+SQL Query:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/6%20top%205%20customer%20pre_invoice%20Code.png)
+
+Output:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/6%20top%205%20customer%20pre_invoice%20result.png)
 
 
-![Alt Text](images/my-image.png)
-
-Img
-Img
 
 
-Insight  
+Insight:
 
-img 
-![Alt Text](images/my-image.png)
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/6%20top%205%20customer%20pre_invoice%20chart.png)
 
 
 Flipkart, Viveks, Ezone, Croma and Amazon are Top 5 Customers of Atliq who has received average highest pre invoice discount.
 
-nnnnnnnnnnnnnn
+
 7. Get the complete report of the Gross sales amouont for the customer "Atliq Exclusive" for each month. This analysis helps to get an idea of low and high-performing months and take strategic decisions. 
 
-![Alt Text](images/my-image.png)
+SQL Query:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/7%20Gross%20Sales%20Amount.png)
 
-![Alt Text](images/my-image.png)
-
-img
-img
+Output:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/7%20Gross%20Sales%20Amount%20result1.png)
 
 
-Insights
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/7%20Gross%20Sales%20Amount%20result2.png)
 
-![Alt Text](images/my-image.png)
 
-img
+Insights:
+
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/7%20Gross%20Sales%20Amount%20chart.png)
+
+
 
 In fiscal year 2021, sales started slow in September but saw a major peak in November, with gross sales reaching 62 million. 
 November consistently shows strong sales.  
@@ -147,19 +147,20 @@ These trends suggest focusing marketing and inventory efforts around peak months
 
 
 
-vvvvvvvvvvvvvvv
 8. In Which quarter of 2020, got the maximum total sold quantity? 
 
-![Alt Text](images/my-image.png)
 
-![Alt Text](images/my-image.png)
-    IMG IMG
+SQL Query:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/8%20Q%202020%20max%20total%20sold%20quantity%20code.png)
 
-Insights 
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/8%20Q%202020%20max%20total%20sold%20quantity%20result.png)
 
-![Alt Text](images/my-image.png)
 
-  img 
+Insights:
+
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/8%20Q%202020%20max%20total%20sold%20quantity%20chart.png)
+
+
 
 In Q1, The highest number of units sold was 7 million, showing a clear seasonal trend. Q1 and Q2 had the strongest sales, while Q3 was the weakest but saw improvement in Q4. 
 This information is useful for planning inventory and marketing strategies to match seasonal demad. 
@@ -167,21 +168,19 @@ This information is useful for planning inventory and marketing strategies to ma
 
 
 
-
-bbbbbbbbbbbbbbbbbbbb 
 9. Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution? 
 
-![Alt Text](images/my-image.png)
+SQL Query:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/9%20channel%20sale%20code.png)
 
-![Alt Text](images/my-image.png)
+Output:
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/9%20channel%20sale%20result.png)
 
 
-img img
 
+Insights:
 
-Insights 
-    Img
-    ![Alt Text](images/my-image.png) 
+![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/9%20channel%20sale%20chart.png) 
 
 The "Retailer" channel makes up most of the sales, with 73% of the total. 
 The "Direct" channel is also important, contributing 16%, while the "Distributor" channel adds 11%. 
@@ -198,15 +197,15 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 10. Get the Top 3 products in each divison that have a high total sold quantity in the fiscal year 2021?  
 
 
-SQL Query
+SQL Query:
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20code.png)
 
-Result
+Output:
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20result.png)
 
-Insight 
+Insight:
 
-N&S Division  
+N&S Division: 
 
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20chart%20N%26S%20Divison.png)
   
@@ -216,7 +215,7 @@ This reflects strong consumer demand for pen drives in the divison, underscoring
 Effective inventory management is essential for continued success. 
 
 
-P&A Division 
+P&A Division: 
 
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20chart%20P%26A%20Divison.png)
 
@@ -226,7 +225,7 @@ This division specializes in gaming-related products, appealing to a specific cu
 Efficient inventory management is essential to meet customer demand. 
 Continuously promote and brand the top products to sustain success. 
 
-PC Division 
+PC Division:
 
 ![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/10%20Top%203%20Product%20chart%20PC%20Divison.png)
 
