@@ -17,7 +17,8 @@ APAC Region Map:
 
 Atliq Harware operates in several countries across the Asia-Pacific region, including India,Indonesia, Japan, the Philippines, South Korea, Australia, New Zealand and Bangladesh. 
 
-This shows their strong presence and ability to succeed in diffrernt cultures and economics in the region.   
+This shows their strong presence and ability to succeed in diffrernt cultures and economics in the region.                       
+
 2. What is the percentage of uniques product increase in 2021 Vs 2020?
 
 SQL Query:
