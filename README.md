@@ -4,13 +4,11 @@
 
 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
 
-SQL Query![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/1%20list%20of%20Market%20code.png)
+SQL Query![Sql](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/1%20list%20of%20Market%20code.png)
 
 
-![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/1%20list%20of%20Market%20APAC%20result.png)
+Result![Alt Text](https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/1%20list%20of%20Market%20APAC%20result.png)
 
-Result(https://github.com/Sumit-Mahat0/Customer_Goods_Analytics/blob/main/SQL%20Images/1%20list%20of%20Market%20APAC%20result.png)
-   
 
   
   Insights
